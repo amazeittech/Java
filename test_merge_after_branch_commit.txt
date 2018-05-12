@@ -1,1 +1,2 @@
 This is to test merge after feature has been added to feature branch but in the meantime master branch also has new commits.
+This is adding second time because first merge did not go according to plan
