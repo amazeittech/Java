@@ -1,0 +1,1 @@
+This is to test merge after feature has been added to feature branch but in the meantime master branch also has new commits.
