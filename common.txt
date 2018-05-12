@@ -2,12 +2,73 @@ This is a common file.......
 Line added by Amazeit.tech!!
 Line added by bharatiyas!!
 This is from amazeittech....
+This is to test merging with branch when you have modified same lines.
 56565
+rewrew
+
+hd
+h
+dghg
+
+h
+gh
+ghg
+h
+g
+h
+gh
+
+j
+nb
+n
+b
+b
+n
+bv
+n
+bv
+nbv
+b
+thy
+tr
+yt
+eyer
+tew
+r
+wer
+we
+r
+
+wd
+asf
+sd
+gf
+hg
+hjg
+fhj
+gfh
+dfg
+sdf
+sd
+
+dg
+hgf
+hj
+gfj
+fh
+jktu
+i
+u8
+56
+74
+76
+456
+456344444444444444444njjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtyyyyyyyyyyyyyyyyyyyyyutyur7y476456745645
+
+56456456546456
 
 
-
-
-476
+s
 7
 457
 45
@@ -24,6 +85,21 @@ k
 gh
 t
 i
+
+
+gjhgggggggggggggggggggggggggjtywertswfsdfsdfbnbvnmvbmvb
+
+hg
+h
+dhdf
+hgd
+gs
+rqe
+
+d
+ad
+as
+476
 tyi
 t
 i
@@ -32,9 +108,6 @@ ttttttttttttttttttuityimjhgjgjgghhhhhhhhhhhhhhhhhjhj
 
 
 
-
-
-gjhgggggggggggggggggggggggggjtywertswfsdfsdfbnbvnmvbmvb
 dfghfg
 hfg
 h
@@ -62,18 +135,5 @@ gdfg
 dfgdf
 g
 dfh
-dg
-hgf
-hj
-gfj
-fh
-jktu
-i
-u8
-56
-74
-76
-456
-456344444444444444444njjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtyyyyyyyyyyyyyyyyyyyyyutyur7y476456745645
 
-56456456546456
+File has been merged successfully.
